@@ -1,0 +1,4 @@
+﻿  ass2.c
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\2\ass2.c\ass2.c\ass2.c(37,41): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\2\ass2.c\ass2.c\ass2.c(63,6): warning C4101: 'len': unreferenced local variable
+  ass2.c.vcxproj -> C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\2\ass2.c\Debug\ass2.c.exe

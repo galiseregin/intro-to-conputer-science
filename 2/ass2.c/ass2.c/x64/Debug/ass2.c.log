@@ -1,0 +1,8 @@
+﻿  ass2.c
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\2\ass2.c\ass2.c\ass2.c(56,41): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\2\ass2.c\ass2.c\ass2.c(82,6): warning C4101: 'len': unreferenced local variable
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\2\ass2.c\ass2.c\ass2.c(153,10): warning C4098: 'identifyText': 'void' function returning a value
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\2\ass2.c\ass2.c\ass2.c(172,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\2\ass2.c\ass2.c\ass2.c(177,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\2\ass2.c\ass2.c\ass2.c(182,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ass2.c.vcxproj -> C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\2\ass2.c\x64\Debug\ass2.c.exe
